@@ -4,6 +4,38 @@ This repository provides everything needed to reproduce the experiments from our
 
 🧩 CAD files of the custom-designed acoustic metamaterial structures
 
+CAD File Descriptions
+
+The MetaGuardian system includes 8 CAD files, each corresponding to a specific structural design or use case. These files enable the construction of different defense configurations for mobile devices and smart speakers:
+
+Mobile Device Defense Structures (Assembled Versions)
+`MoblieDevices-OneMic`
+  Fully assembled defense structure designed for mobile devices (e.g., smartphones, tablets) with a **single microphone opening**.
+`MoblieDevices-TwoMics`
+  Assembled defense structure tailored for mobile devices with **dual microphone openings**, compatible with devices that have multiple mic placements.
+
+ Mobile Device Structures (Unassembled – without AADM)
+`(Without AADM) MoblieDevices-OneMic`
+  Unassembled version of the single-mic structure **without the built-in Adversarial Audio Defense Metamaterial (AADM)**. Recommended for post-3D-print **manual polishing and fine-tuning** before installing AADM.
+`(Without AADM) MoblieDevices-TwoMics`
+  Unassembled version of the dual-mic structure, also meant for **manual assembly** after cleaning or modifying printed parts.
+
+ Core Defense Components (Metamaterial Units)
+`AADM`
+  Standalone acoustic metamaterial unit designed to defend against **adversarial audio attacks**. This is a **core module**, not including the outer casing.
+`IADM`
+  Intelligent acoustic metamaterial unit specialized for **inaudible (ultrasonic) attack defense**. Also a core component requiring integration into an outer structure.
+
+ Mounting & Support Component
+`A fixed button`
+  A positioning fixture to **stabilize mobile devices** within the defense structure. Used in combination with the mobile defense designs above.
+
+ Smart Speaker Defense Structure
+`SmartSpeaker`
+  A fully assembled defense structure specifically designed for **smart speakers** (e.g., Amazon Echo, Google Home). Includes integrated metamaterials and enclosure.
+
+
+
 🎧 Audio samples used for attack testing
 
 🎥 Demonstration videos showing the experimental setup and process
