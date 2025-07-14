@@ -37,12 +37,21 @@ Mobile Device Defense Structures (Assembled Versions)
 
 
 🎧 Audio samples used for attack testing
+
 (1) CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition. (https://sites.google.com/view/commandersong/)
+
 (2) ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features. (https://taser2023.github.io/)
+
 (3) Kenku: Towards Efficient and Stealthy Black-box Adversarial Attacks against ASR Systems. (https://github.com/Xinghui-Wu/KENKU)
+
 (4) Devil’s Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices. (https://sites.google.com/view/devil-whisper)
+
 (5) SMACK: Semantically Meaningful Adversarial Audio Attack. (https://sites.google.com/view/smack)
+
+(6) Inaudible attack: attack audio at 18 kHz, 25 kHz, and 40 kHz.
+
 🎥 Demonstration videos showing the experimental setup and process
+
 https://youtu.be/BgMgL4QQH0A and https://youtu.be/y7qM-yOHKwE
 
 With these materials, researchers and developers can accurately replicate our experimental workflow and validate the key mechanisms and defense performance described in the paper：MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterials
